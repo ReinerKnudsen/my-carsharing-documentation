@@ -28,7 +28,7 @@ export default function Screenshots({
         <img
           src={require(`@site/docs/${iosImage}`).default}
           alt={`${alt} - ${caption} auf iOS`}
-          height={height}
+          style={{ maxHeight: `${height}px`, width: 'auto', maxWidth: '100%' }}
         />
         <figcaption>{caption} auf iOS</figcaption>
       </figure>
@@ -43,7 +43,7 @@ export default function Screenshots({
         <img
           src={require(`@site/docs/${androidImage}`).default}
           alt={`${alt} - ${caption} auf Android`}
-          height={height}
+          style={{ maxHeight: `${height}px`, width: 'auto', maxWidth: '100%' }}
         />
         <figcaption>{caption} auf Android</figcaption>
       </figure>
