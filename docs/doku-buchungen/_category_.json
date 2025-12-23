@@ -1,0 +1,8 @@
+{
+  "label": "Dokumentation Buchungen",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Hier erfährst Du alles über Buchungen."
+  }
+}
