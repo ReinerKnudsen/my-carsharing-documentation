@@ -63,9 +63,9 @@ Unter `Alle Fahrten` findest Du alle Fahrten, die von anderen Fahrern erstellt w
 ### Differenzfahrten
 Es kann vorkommen, dass ein Fahrer vergisst, seine Fahrt einzutragen. Der aktuelle Kilometerstand, bei dem Deine Fahrt beginnt, stimmt dann nicht mit dem End-Kilometerstand der letzten Fahrt überein.
 
-Du kannst trotzdem eine Fahrt erstellen. Gib dazu einfach wie oben beschrieben Datum und Kilometerstände ein. Überschreibe den vorgeschlagenen Wert für den Start-Kilometerstand mit dem aktuellen Kilometerstand.
+Du kannst trotzdem eine Fahrt erstellen. Gib dazu, wie oben beschrieben, Datum und Kilometerstände ein. Überschreibe den vorgeschlagenen Wert für den Start-Kilometerstand mit dem aktuellen Kilometerstand.
 
-Wenn Du Deine Fahrt speicherst, wird Dir am unteren Bildschirmrand angezeigt, dass eine zusätzliche Fahrt erstellt wurde, die keinem Fahrer zuordnet ist.
+Wenn Du Deine Fahrt speicherst, wird Dir am unteren Bildschirmrand angezeigt, dass eine zusätzliche Fahrt erstellt wurde, die keinem Fahrer zugeordnet ist.
 
 Diese Fahrten - die sogenannten *Differenzfahrten* - werden den Fahrern **aller Gruppen** angezeigt. Jeder Fahrer kann diese Fahrt aus der Übersicht in das eigene Konto übernehmen, indem er auf den Button `Fahrt übernehmen` klickt.
 
