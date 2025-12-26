@@ -1,0 +1,8 @@
+{
+  "label": "Komponenten",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Die Komponenten sind wiederverwendbare Elemente der App"
+  }
+}

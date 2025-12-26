@@ -1,0 +1,8 @@
+{
+  "label": "Technische Dokumentation",
+  "position": 9,
+  "link": {
+    "type": "generated-index",
+    "description": "Hier findest Du die Dokumentation zur Technik hinter der App"
+  }
+}
